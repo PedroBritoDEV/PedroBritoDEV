@@ -1,11 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5090CB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique;I'm+19+years+old;I+from+Brasil,+MA;I+study+systems+development+at+FACAM;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5090CB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique;I'm+19+years+old;I+from+Brasil,+MA;I+study+systems+development+at+FACAM;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroBritoDEV&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBritoDEV&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
+<div class='container'>
+<img style="height: auto; width: 53%;" class="img" src="https://github-readme-stats.vercel.app/api?username=PedroBritoDEV&show_icons=true&theme=holi" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBritoDEV&theme=holi&langs_count=8&layout=compact" /></div>
 </div>
+
 
 
 <p align="center">
@@ -50,4 +54,4 @@
 
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5090CB&height=120&section=footer"/>****
