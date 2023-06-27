@@ -18,7 +18,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/pedroph2019/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.instagram.com/pedroph2019/" target="_blank"><img src="https://img.shields.io/badge/-Linkdin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/pedro-henrique-649776209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
   
 
@@ -26,7 +26,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.JS](https://img.shields.io/badge/-Node.JS-35495E?style=for-the-badge&logo=node.js&labelColor=35495E&textColor=0D1117)&nbsp;
+![Node.JS](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 
@@ -35,22 +35,23 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-35495E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=35495E)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-35495E?style=for-the-badge&logo=visual-studio&logoColor=BF8CEA&labelColor=35495E)&nbsp;
 <br/>
- ![Git](https://img.shields.io/badge/-Git-35495E?style=for-the-badge&logo=git&labelColor=35495E)&nbsp; 
-![GitHub](https://img.shields.io/badge/-GitHub-35495E?style=for-the-badge&logo=github&labelColor=35495E)&nbsp;
+ ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp; 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 <br/>
-![Windows](https://img.shields.io/badge/-Windows-35495E?style=for-the-badge&logo=windows&labelColor=35495E)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-35495E?style=for-the-badge&logo=Linux&labelColor=35495E)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 
 
 ### Other Knowledge:
-![Boostrap](https://img.shields.io/badge/-boostrap-35495E?style=for-the-badge&logo=bootstrap&labelColor=35495E)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-35495E?style=for-the-badge&logo=mysql&labelColor=35495E)&nbsp;
+![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-35495E?style=for-the-badge&logo=figma&labelColor=35495E)&nbsp;
   
 ### Studying in this moment:
-![C#](https://img.shields.io/badge/-cSharp-35495E?style=for-the-badge&logo=csharp&logoColor=purple&logoColor=35495E)&nbsp; 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp; 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
   
 
